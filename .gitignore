@@ -26,13 +26,4 @@ yarn-error.log*
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-/.idea/.gitignore
-/.idea/deployment.xml
-/.idea/git_toolbox_blame.xml
-/.idea/git_toolbox_prj.xml
-/.idea/jsLibraryMappings.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/php.xml
-/.idea/vcs.xml
-/.idea/wb-doc.iml
+/.idea/*
