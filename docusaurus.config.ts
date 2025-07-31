@@ -37,7 +37,7 @@ const config: Config = {
       [
         'docusaurus-plugin-yandex-metrica',
         {
-          counterID: '101134743',
+          counterID: '103417734',
           webvisor: true,
         }
       ],
