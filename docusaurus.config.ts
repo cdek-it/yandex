@@ -89,7 +89,7 @@ const config: Config = {
     image: 'img/banner.png',
     navbar: {
       hideOnScroll: true,
-      title: 'Wildberries',
+      title: 'Yandex.Market',
       logo: {
         alt: 'Логотип CDEK',
         src: 'img/logo.svg',
