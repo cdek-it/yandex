@@ -87,6 +87,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/banner.png',
+    algolia: {
+      appId: 'X22O3RCFN8',
+      apiKey: '66bf4ae3650f1b4b010e61f4d442186f',
+      indexName: 'yandex',
+    },
     navbar: {
       hideOnScroll: true,
       title: 'Yandex.Market',
